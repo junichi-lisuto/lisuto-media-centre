@@ -1,8 +1,18 @@
 # 既出の元記事URL一覧（自動生成）
 
 記事候補を探す前に必ずこの一覧を確認し、ここに載っているURLと同じ元記事は候補から除外すること。
-生成元: articles.json（更新日: 2026-09-25）
+生成元: articles.json（更新日: 2026-09-28）
 
+- https://ucpchecker.com/blog/state-of-agentic-commerce-september-2026
+- https://forkast.news/shopify-turns-on-agent-checkout-by-default-for-a-million-merchants/
+- https://nielseniq.com/global/en/news-center/2026/majority-of-u-s-consumers-now-use-ai-to-shop-niq-finds/
+- https://netshop.impress.co.jp/e/2026/09/28/16655
+- https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/
+- https://prtimes.jp/main/html/rd/p/000000077.000085035.html
+- https://www.searchenginejournal.com/chatgpt-ads-appeared-in-47-of-video-gaming-chats-data-shows/590481/
+- https://prtimes.jp/main/html/rd/p/000000538.000008833.html
+- https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/
+- https://prtimes.jp/main/html/rd/p/000000170.000118298.html
 - https://www.searchenginejournal.com/youtube-shopping-ask-youtube-ai-search/590662/
 - https://www.lycorp.co.jp/ja/news/release/020834/
 - https://netshop.impress.co.jp/e/2026/09/24/16769

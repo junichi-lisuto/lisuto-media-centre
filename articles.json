@@ -1,7 +1,230 @@
 {
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-28",
   "schemaVersion": 2,
   "articles": [
+    {
+      "slug": "ucp-checker-state-of-agentic-commerce-september-2026",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/ucp-checker-state-of-agentic-commerce-september-2026.html",
+      "sourceUrl": "https://ucpchecker.com/blog/state-of-agentic-commerce-september-2026",
+      "platforms": [
+        "other-ai"
+      ],
+      "viewpoint": "seller",
+      "theme": "measurement",
+      "source": "UCP Checker",
+      "date": "2026-09-22",
+      "title": "エージェント型コマース対応、Shopifyストアの導入率60.2%に UCP Checker調査",
+      "bullets": [
+        "UCP対応ストアは17,767件、Shopifyが1万件超で最多。",
+        "最新規格「UCP v2026-08-25」の採用率は60.2%に到達。",
+        "14プラットフォームが対応、Salesforceも10月にGA予定。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://ucpchecker.s3.eu-west-1.amazonaws.com/blog/state-of-agentic-commerce-september-2026/ucp_adoption_report_sep_26.webp"
+      }
+    },
+    {
+      "slug": "shopify-agent-checkout-default-million-merchants",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/shopify-agent-checkout-default-million-merchants.html",
+      "sourceUrl": "https://forkast.news/shopify-turns-on-agent-checkout-by-default-for-a-million-merchants/",
+      "platforms": [
+        "other-ai"
+      ],
+      "viewpoint": "seller",
+      "theme": "optimization",
+      "source": "Forkast",
+      "date": "2026-09-24",
+      "title": "Shopify、AIエージェント経由の決済を100万事業者に自動有効化 オプトアウト方式へ転換",
+      "bullets": [
+        "Shopifyが100万事業者のAI決済をデフォルト有効化、オプトアウト制。",
+        "AI経由の注文は前年比13倍、対応済みの小規模事業者は11%のみ。",
+        "米消費者23%が小売調査をAIから開始、発表後株価は4〜7%上昇。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://forkast.news/wp-content/uploads/2026/09/shopify-default-on-agent-checkout-hero-1024x687.jpg"
+      }
+    },
+    {
+      "slug": "niq-51-percent-us-consumers-ai-shopping",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/niq-51-percent-us-consumers-ai-shopping.html",
+      "sourceUrl": "https://nielseniq.com/global/en/news-center/2026/majority-of-u-s-consumers-now-use-ai-to-shop-niq-finds/",
+      "platforms": [
+        "other-ai"
+      ],
+      "viewpoint": "buyer",
+      "theme": "measurement",
+      "source": "NielsenIQ",
+      "date": "2026-09-24",
+      "title": "米消費者の51%が直近1ヶ月にAIツールで買い物、NIQ調査で初めて過半数に",
+      "bullets": [
+        "米消費者の51%が直近1ヶ月にAIで買い物、NIQ調査で初の過半数。",
+        "AI商品推奨の利用率20%、パーソナルショッピングは16%。",
+        "NIQは毎月約500人を対象に調査、AI利用の定着を裏付けた。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://nielseniq.com/wp-content/uploads/sites/4/2026/07/GettyImages-2207176293-1001x667-1aefa07.jpg?w=1000"
+      }
+    },
+    {
+      "slug": "mirakl-b2b-marketplace-agentic-commerce",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/mirakl-b2b-marketplace-agentic-commerce.html",
+      "sourceUrl": "https://netshop.impress.co.jp/e/2026/09/28/16655",
+      "platforms": [
+        "other-ai"
+      ],
+      "viewpoint": "seller",
+      "theme": "optimization",
+      "source": "ネットショップ担当者フォーラム",
+      "date": "2026-09-28",
+      "title": "BtoBコマースもエージェンティックコマースへ、Miraklが示すマーケットプレイス活用の海外事例4選",
+      "bullets": [
+        "BtoBでもエージェンティックコマース対応が進む、海外4社の事例。",
+        "Miraklは450超のマーケットプレイスで年間取引高約150億ドル。",
+        "BtoBバイヤーの70%がオンライン注文希望、満足度は36%止まり。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://netshop.impress.co.jp/sites/default/files/styles/1200x630/public/images/article/2026/ad/16655-A-2-OGP.jpg?itok=7Y5Gz0wt"
+      }
+    },
+    {
+      "slug": "google-flipkart-india-gemini-checkout",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/google-flipkart-india-gemini-checkout.html",
+      "sourceUrl": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "platforms": [
+        "google"
+      ],
+      "viewpoint": "buyer",
+      "theme": "visibility",
+      "source": "TechCrunch",
+      "date": "2026-09-26",
+      "title": "Google、インドでGemini/AI Modeから Flipkart商品を直接購入するテストを開始",
+      "bullets": [
+        "Gemini/AI ModeにFlipkart購入ボタンが登場、インドで先行テスト開始。",
+        "Googleは2024年にFlipkartへ約3.5億ドルを投資し関係を強化。",
+        "10月下旬に本格展開、インドの祭りシーズン商戦に照準を合わせる。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1235830811-1.jpg?resize=1200,800"
+      }
+    },
+    {
+      "slug": "ecpro-brain-promotion-plan-rakuten-event",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/ecpro-brain-promotion-plan-rakuten-event.html",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000077.000085035.html",
+      "platforms": [
+        "rakuten"
+      ],
+      "viewpoint": "seller",
+      "theme": "optimization",
+      "source": "PR TIMES（株式会社Proteinum）",
+      "date": "2026-09-24",
+      "title": "EC特化AIエージェント「ECPRO BRAIN」、楽天市場イベント後の設定復元を自動化する新機能を追加",
+      "bullets": [
+        "ECPRO BRAINが楽天セール後の設定戻し作業をAIで自動化した。",
+        "お買い物マラソン等、主要セールイベントに対応する新機能。",
+        "従来必要だったCSV作成・アップロード作業が不要になった。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://prcdn.freetls.fastly.net/release_image/85035/77/85035-77-703f2a2c17eab7fc6eac7735c5ea3daf-2816x1536.jpg"
+      }
+    },
+    {
+      "slug": "chatgpt-ads-gaming-47-percent-comscore",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/chatgpt-ads-gaming-47-percent-comscore.html",
+      "sourceUrl": "https://www.searchenginejournal.com/chatgpt-ads-appeared-in-47-of-video-gaming-chats-data-shows/590481/",
+      "platforms": [
+        "chatgpt"
+      ],
+      "viewpoint": "buyer",
+      "theme": "measurement",
+      "source": "Search Engine Journal",
+      "date": "2026-09-23",
+      "title": "ChatGPTのゲーミング関連会話における広告表示率が3%から47%に急上昇、Comscoreデータが判明",
+      "bullets": [
+        "ChatGPTのゲーム関連会話、広告表示率が3%→47%へ急上昇。",
+        "おもちゃ・趣味は24%、本・音楽・映像は22%まで広告が浸透。",
+        "OpenAIは2月に広告テスト開始、5月にセルフサービス化した。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/chatgpt-gaming-ads-openai-1600x840-1.jpg"
+      }
+    },
+    {
+      "slug": "aucfan-ai-skill-md-template-sales",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/aucfan-ai-skill-md-template-sales.html",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000538.000008833.html",
+      "platforms": [
+        "other-ai"
+      ],
+      "viewpoint": "seller",
+      "theme": "optimization",
+      "source": "PR TIMES（株式会社オークファン）",
+      "date": "2026-09-24",
+      "title": "aucfanがEC事業者向けAI用Skill・MDテンプレートの販売を開始、EC運営ノウハウをAIにパッケージ化",
+      "bullets": [
+        "aucfanがEC運営ノウハウをAI向けにパッケージ化、Skill販売開始。",
+        "「ECディレクター」等4種のSkillとMDテンプレートを提供。",
+        "オークファンは資本金9億7,368万円、EC実務のAI化を後押し。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://prcdn.freetls.fastly.net/release_image/8833/538/8833-538-2aa7555bece44a92864c91acc83b5593-860x484.png"
+      }
+    },
+    {
+      "slug": "amazon-blocks-meta-muse-agentic-shopping",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/amazon-blocks-meta-muse-agentic-shopping.html",
+      "sourceUrl": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/",
+      "platforms": [
+        "amazon",
+        "other-ai"
+      ],
+      "viewpoint": "buyer",
+      "theme": "visibility",
+      "source": "GeekWire",
+      "date": "2026-09-21",
+      "title": "Amazon、MetaのAIエージェント「Muse」のショッピング機能をブロック エージェント型コマースの覇権争いが表面化",
+      "bullets": [
+        "AmazonがMetaのAIエージェント「Muse」のショッピング機能をブロック。",
+        "Museは発売1週間でApp Store首位、Amazonは顧客接点への影響を懸念。",
+        "AmazonはPerplexity「Comet」にも訴訟済み、対立は今回で2件目。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://cdn.geekwire.com/wp-content/uploads/2026/09/muse-stroller.png"
+      }
+    },
+    {
+      "slug": "ai-search-partners-management-consulting-survey",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/ai-search-partners-management-consulting-survey.html",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000170.000118298.html",
+      "platforms": [
+        "chatgpt",
+        "google",
+        "other-ai"
+      ],
+      "viewpoint": "seller",
+      "theme": "measurement",
+      "source": "PR TIMES（TechSuite株式会社）",
+      "date": "2026-09-28",
+      "title": "経営・業務効率化コンサル選びのAI検索調査、首位でも登場率33.3%にとどまる",
+      "bullets": [
+        "経営コンサル選びのAI検索調査、首位でも登場率は33.3%止まり。",
+        "3AI・23クエリで69件のAI回答を分析、観測企業は38社。",
+        "AI回答の根拠情報源は企業公式サイトが過半数を占めた。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://prcdn.freetls.fastly.net/release_image/118298/170/118298-170-a966cbbdec85b4605318c8fdf5d67d2f-1447x694.png"
+      }
+    },
     {
       "slug": "youtube-ask-shopping-comparison-table-20260925",
       "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/youtube-ask-shopping-comparison-table-20260925.html",
