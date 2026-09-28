@@ -1,0 +1,256 @@
+[
+  {
+    "slug": "google-flipkart-india-gemini-checkout",
+    "title": "Google、インドでGemini/AI Modeから Flipkart商品を直接購入するテストを開始",
+    "origTitle": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "sourceUrl": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+    "source": "TechCrunch",
+    "date": "2026-09-26",
+    "dateDisplay": "2026年9月26日",
+    "platforms": ["google"],
+    "viewpoint": "buyer",
+    "theme": "visibility",
+    "background": "Googleは商品発見から実際の購買までコマース機能を広げる動きを続けており、インドではGeminiとAI Modeを通じてWalmart傘下のFlipkartから商品を購入できる機能のテストを開始した。10月下旬のインドの祭りシーズンの購買ラッシュを見据えた展開である。",
+    "bullets": [
+      "Googleはスマートフォン・電子機器・モバイルアクセサリーなど一部商品カテゴリーを対象に、Gemini/AI Mode上の「Buy」ボタンからFlipkartのチェックアウト画面へ直接遷移するテストを開始した。",
+      "Googleは2024年にFlipkartへ約3億5000万ドルを投資しており、インドの10億人超のインターネット利用者を抱える市場でのAIコマース展開の足がかりとしている。",
+      "この機能はGoogleが開発する「ユニバーサルコマース・プロトコル（UCP）」というAIエージェント向けオープン標準に基づき、Flipkartが「エージェント型」ショッピング体験パートナーとして参加する形で実現した。",
+      "10月下旬にはより広範なロールアウトを予定しており、インドの祭りシーズンの購買ラッシュに対応する狙いがある。"
+    ],
+    "cardBullets": [
+      "Gemini/AI ModeにFlipkart購入ボタンが登場、インドで先行テスト開始。",
+      "Googleは2024年にFlipkartへ約3.5億ドルを投資し関係を強化。",
+      "10月下旬に本格展開、インドの祭りシーズン商戦に照準を合わせる。"
+    ],
+    "meaning": "EC事業者にとっては、AIが「検索する場所」から「購入する場所」へと変わりつつある動きの実例である。プラットフォームが自国の商流に閉じず、AIを媒介に他社ECへ購買導線を伸ばす動きは、自社の商品データがAIエージェントから購入対象として正しく認識される状態になっているかを見直す契機になる。",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1235830811-1.jpg?resize=1200,800"
+  },
+  {
+    "slug": "mirakl-b2b-marketplace-agentic-commerce",
+    "title": "BtoBコマースもエージェンティックコマースへ、Miraklが示すマーケットプレイス活用の海外事例4選",
+    "sourceUrl": "https://netshop.impress.co.jp/e/2026/09/28/16655",
+    "source": "ネットショップ担当者フォーラム",
+    "date": "2026-09-28",
+    "dateDisplay": "2026年9月28日",
+    "platforms": ["other-ai"],
+    "viewpoint": "seller",
+    "theme": "optimization",
+    "background": "Miraklはマーケットプレイスソフトウェアを提供するBtoB企業で、エージェンティックコマース時代に向けた商品カタログ整備支援機能「Catalog Transformer」などのAI機能導入を進めている。海外4社の活用事例を通じて、BtoB取引におけるマーケットプレイス活用の新潮流を示した。",
+    "bullets": [
+      "Miraklは450以上のマーケットプレイスに10万社以上の販売事業者が参加し、年間取引総額は約150億ドルに達する。",
+      "飲食店向け卸売業のSyscoは、Miraklのマーケットプレイスに9か月で1万5000品目以上を追加した。",
+      "フォークリフト製造販売のToyota Material Handling USA社や、飲料大手Coca-Cola HBCはHoReCa（ホテル・レストラン・カフェ）向けプラットフォームを構築した。",
+      "商社のBunzlは220社以上を買収し売上約2.2兆円規模となっており、マーケットプレイス活用がBtoB企業の成長戦略の一部になっている。",
+      "BtoBバイヤーの70%がオンライン注文を希望する一方、オンライン体験に満足しているバイヤーは36%にとどまり、AIによるカタログ整備・体験改善の必要性が浮き彫りになった。"
+    ],
+    "cardBullets": [
+      "BtoBでもエージェンティックコマース対応が進む、海外4社の事例。",
+      "Miraklは450超のマーケットプレイスで年間取引高約150億ドル。",
+      "BtoBバイヤーの70%がオンライン注文希望、満足度は36%止まり。"
+    ],
+    "meaning": "BtoCのAI検索対策が先行して語られがちだが、BtoB領域でも「商品カタログがAIエージェントに正しく読み取れる状態か」が問われ始めている。消費者向けだけでなく卸売・法人取引の商品データ整備も、将来のAIエージェント対応を見据えて優先度を上げるべき論点だと示す事例である。",
+    "thumbnail": "https://netshop.impress.co.jp/sites/default/files/styles/icon_140/public/images/article/2026/ad/16655-A-2-OGP.jpg"
+  },
+  {
+    "slug": "amazon-blocks-meta-muse-agentic-shopping",
+    "title": "Amazon、MetaのAIエージェント「Muse」のショッピング機能をブロック エージェント型コマースの覇権争いが表面化",
+    "origTitle": "Amazon blocks Meta's Muse AI assistant in new standoff over agentic shopping",
+    "sourceUrl": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/",
+    "source": "GeekWire",
+    "date": "2026-09-21",
+    "dateDisplay": "2026年9月21日",
+    "platforms": ["amazon", "other-ai"],
+    "viewpoint": "buyer",
+    "theme": "visibility",
+    "background": "Metaが9月8日に投入した個人用AIエージェント「Muse」が急速に人気を集める中、Amazonは無許可のAIエージェントによるアクセスを問題視し、Museによる自社サイトでのショッピング機能を9月20日夜にブロックした。AIエージェントが顧客に代わって商品を選び購入する「エージェント型コマース」において、誰が顧客接点を握るかを巡る対立が表面化した。",
+    "bullets": [
+      "Amazonは、認可されていないAIエージェントによる継続的なアクセスは利用規約に違反すると指摘し、顧客認証情報の保存やプライバシーリスク、事前合意なしのアクセスを問題視した。",
+      "Museは9月8日に発売され、わずか1週間後にAppleの米国App Storeでランキング1位を記録するなど急速に利用が拡大していた。",
+      "Amazonは過去1年間で680億ドル超の広告収益を生み出しており、AIエージェントが商品選定を代替することで広告収益モデルへの影響を懸念しているとみられる。",
+      "Amazonは以前にもPerplexityの「Comet」エージェントを相手に訴訟を起こし、3月に予備差止命令を得たが8月に第9巡回区控訴裁判所により却下されている。",
+      "Metaは「Museはユーザーのパスワードや決済情報を見ることはできず、認証情報は安全な保管領域で管理され、モデルに露出しない」と反論している。"
+    ],
+    "cardBullets": [
+      "AmazonがMetaのAIエージェント「Muse」のショッピング機能をブロック。",
+      "Museは発売1週間でApp Store首位、Amazonは顧客接点への影響を懸念。",
+      "AmazonはPerplexity「Comet」にも訴訟済み、対立は今回で2件目。"
+    ],
+    "meaning": "大手プラットフォーム同士が「AIエージェントに自社の商品データへのアクセスを許すか」で対立し始めている。特定のAIエージェントに商品情報を渡せば売上に繋がるとは限らず、プラットフォームごとのアクセス許諾方針の変化によって自社の商品がAI経由で見つけてもらえるかどうかが左右されるリスクを示す事例である。",
+    "thumbnail": "https://cdn.geekwire.com/wp-content/uploads/2026/09/muse-stroller.png"
+  },
+  {
+    "slug": "niq-51-percent-us-consumers-ai-shopping",
+    "title": "米消費者の51%が直近1ヶ月にAIツールで買い物、NIQ調査で初めて過半数に",
+    "sourceUrl": "https://nielseniq.com/global/en/news-center/2026/majority-of-u-s-consumers-now-use-ai-to-shop-niq-finds/",
+    "source": "NielsenIQ",
+    "date": "2026-09-24",
+    "dateDisplay": "2026年9月24日",
+    "platforms": ["other-ai"],
+    "viewpoint": "buyer",
+    "theme": "measurement",
+    "background": "NielsenIQ（NIQ）は毎月実施している「Agentic Commerce Tracker」調査の最新結果を発表し、米国消費者のAIショッピングツール利用が初めて過半数を超えたことを明らかにした。",
+    "bullets": [
+      "米国消費者の51%が過去1ヶ月間に少なくとも1つのAIツールを買い物に使用したと回答し、この指標が初めて50%を超えた。",
+      "用途別ではAIによる商品推奨の利用率が20%で最も高く、AIパーソナルショッピングアシスタントの利用率は16%だった。",
+      "調査はNIQの「Quick Question」継続調査の一環で、米国消費者約500人を対象に毎月実施されている。",
+      "NIQ北米プレジデントのLiz Buchanan氏は、AIを使った買い物が「もはや主流になった」との見解を示した。"
+    ],
+    "cardBullets": [
+      "米消費者の51%が直近1ヶ月にAIで買い物、NIQ調査で初の過半数。",
+      "AI商品推奨の利用率20%、パーソナルショッピングは16%。",
+      "NIQは毎月約500人を対象に調査、AI利用の定着を裏付けた。"
+    ],
+    "meaning": "消費者側のAI利用が「試している段階」から「日常の買い物手段」へ移った節目のデータである。AI経由の流入がニッチな一部ユーザーの動きではなく、既に過半数の消費者が体験している前提で商品情報・タグ付けの整備を進める必要があることを示す。",
+    "thumbnail": "https://nielseniq.com/wp-content/uploads/sites/4/2026/07/GettyImages-2207176293-1001x667-1aefa07.jpg?w=1000"
+  },
+  {
+    "slug": "chatgpt-ads-gaming-47-percent-comscore",
+    "title": "ChatGPTのゲーミング関連会話における広告表示率が3%から47%に急上昇、Comscoreデータが判明",
+    "sourceUrl": "https://www.searchenginejournal.com/chatgpt-ads-appeared-in-47-of-video-gaming-chats-data-shows/590481/",
+    "source": "Search Engine Journal",
+    "date": "2026-09-23",
+    "dateDisplay": "2026年9月23日",
+    "platforms": ["chatgpt"],
+    "viewpoint": "buyer",
+    "theme": "measurement",
+    "background": "ComscoreのQ2 2026 AI Intelligence Reportにより、OpenAIが2月に開始したChatGPT広告のカテゴリー別の浸透度合いが明らかになった。ゲーミングカテゴリーを中心に、広告表示率が短期間で急上昇している実態が示された。",
+    "bullets": [
+      "米国PC利用者のChatGPTでのゲーム・ゲーム機に関する会話における広告表示率は、3月の3%から6月には47%へ急上昇した。",
+      "おもちゃ・趣味カテゴリーでは5%（3月）から24%（6月）、本・音楽・ビデオカテゴリーでは9%（3月）から22%（6月）へ、いずれも広告表示率が大きく伸びた。",
+      "OpenAIは2026年2月9日に広告テストを開始し、5月5日にセルフサービス広告マネージャーをロールアウトしている。",
+      "データはComscoreのオプトインパネルに基づく米国PC利用者調査で、Q2 2026 AI Intelligence Reportとして公表された。"
+    ],
+    "cardBullets": [
+      "ChatGPTのゲーム関連会話、広告表示率が3%→47%へ急上昇。",
+      "おもちゃ・趣味は24%、本・音楽・映像は22%まで広告が浸透。",
+      "OpenAIは2月に広告テスト開始、5月にセルフサービス化した。"
+    ],
+    "meaning": "ChatGPT内の会話が急速に広告接点化している実態を示すデータである。ChatGPT上で「商品について聞かれる」機会が増えるほど、広告出稿の有無にかかわらず自社商品がAIの回答に正しく引用される状態を整えておく重要性が増す、という論点につながる。",
+    "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/chatgpt-gaming-ads-openai-1600x840-1.jpg"
+  },
+  {
+    "slug": "ai-search-partners-management-consulting-survey",
+    "title": "経営・業務効率化コンサル選びのAI検索調査、首位でも登場率33.3%にとどまる",
+    "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000170.000118298.html",
+    "source": "PR TIMES（TechSuite株式会社）",
+    "date": "2026-09-28",
+    "dateDisplay": "2026年9月28日",
+    "platforms": ["chatgpt", "google", "other-ai"],
+    "viewpoint": "seller",
+    "theme": "measurement",
+    "background": "TechSuite株式会社が提供する「AI検索パートナーズ」は、業界特化型のAI検索対策（LLMO/AIO/GEO/AEO）調査シリーズ第12弾として、経営・業務効率化コンサルティング会社選びにおけるAI検索での登場実態を調査した。",
+    "bullets": [
+      "ChatGPT・Google AI Overviews・Microsoft Copilotの3プラットフォームに23クエリを投げ、得られた69件のAI回答を分析した。",
+      "経営・業務効率化コンサルとして観測された企業数は38社に上ったが、登場率トップの企業でも33.3%にとどまり、上位5社の合計でも49.0%だった。",
+      "AIによる会社名の提示率はプラットフォームによって「9割超」から「約8割」まで幅があり、1回答あたりの平均会社数も1.96〜3.39と差が見られた。",
+      "回答の根拠情報源としては企業の公式サイトが過半数を占めた。"
+    ],
+    "cardBullets": [
+      "経営コンサル選びのAI検索調査、首位でも登場率は33.3%止まり。",
+      "3AI・23クエリで69件のAI回答を分析、観測企業は38社。",
+      "AI回答の根拠情報源は企業公式サイトが過半数を占めた。"
+    ],
+    "meaning": "業種を問わず、AIに「名前が挙がるかどうか」の競争が既に始まっており、上位でも3割程度しか登場しないという厳しい実態を示すデータである。自社が属するカテゴリーでAIにどの程度・どの情報源を根拠に紹介されているかを定期的に確認する習慣の重要性を裏付ける材料になる。",
+    "thumbnail": "https://prcdn.freetls.fastly.net/release_image/118298/170/118298-170-a966cbbdec85b4605318c8fdf5d67d2f-1447x694.png"
+  },
+  {
+    "slug": "shopify-agent-checkout-default-million-merchants",
+    "title": "Shopify、AIエージェント経由の決済を100万事業者に自動有効化 オプトアウト方式へ転換",
+    "origTitle": "Shopify Turns On Agent Checkout by Default for a Million Merchants",
+    "sourceUrl": "https://forkast.news/shopify-turns-on-agent-checkout-by-default-for-a-million-merchants/",
+    "source": "Forkast",
+    "date": "2026-09-24",
+    "dateDisplay": "2026年9月24日",
+    "platforms": ["other-ai"],
+    "viewpoint": "seller",
+    "theme": "optimization",
+    "background": "Shopifyは2026年9月21日、Shop Payを通じたAIエージェント経由のチェックアウトを、米国の対象事業者向けに標準で有効化した。個別の連携を待つオプトイン方式から、初期設定でAIエージェントに開放するオプトアウト方式への転換であり、CEOのTobi Lütke氏が掲げる「すべてのShopifyストアをエージェント対応にする」戦略の一環である。",
+    "bullets": [
+      "自動登録の対象事業者数は約100万に上り、変更したくない場合は管理画面から手動でオフに切り替える必要がある。",
+      "2026年第1四半期、AI駆動のトラフィックは前年比8倍、AI検索由来の注文は前年比13倍に増加した。",
+      "米消費者の23%（約6,100万人）が小売関連の調査をAIから始めており、AI経由の購買行動が一般化している。",
+      "一方で対応できているのは小規模事業者の11%にとどまり、事業者の93%はAIエージェントが購入判断を誤った際の損失をAI提供企業側が負担すべきと考えている。",
+      "発表後、Shopify株価は4〜7%上昇した。"
+    ],
+    "cardBullets": [
+      "Shopifyが100万事業者のAI決済をデフォルト有効化、オプトアウト制。",
+      "AI経由の注文は前年比13倍、対応済みの小規模事業者は11%のみ。",
+      "米消費者23%が小売調査をAIから開始、発表後株価は4〜7%上昇。"
+    ],
+    "meaning": "プラットフォーム側が「事業者の同意を前提に待つ」姿勢から「原則対応済みとして進める」姿勢へ変わり始めている。自社が意識していないうちにAIエージェント経由の販売チャネルが既定で開いている可能性があり、商品データや在庫情報がAIに渡っても問題ない状態かを事前に確認しておく必要性を示す事例である。",
+    "thumbnail": "https://forkast.news/wp-content/uploads/2026/09/shopify-default-on-agent-checkout-hero-1024x687.jpg"
+  },
+  {
+    "slug": "aucfan-ai-skill-md-template-sales",
+    "title": "aucfanがEC事業者向けAI用Skill・MDテンプレートの販売を開始、EC運営ノウハウをAIにパッケージ化",
+    "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000538.000008833.html",
+    "source": "PR TIMES（株式会社オークファン）",
+    "date": "2026-09-24",
+    "dateDisplay": "2026年9月24日",
+    "platforms": ["other-ai"],
+    "viewpoint": "seller",
+    "theme": "optimization",
+    "background": "株式会社オークファンは、EC事業者向けAI支援サービス「aucfan AI」において、商品企画・制作・カスタマーサポート・販促などのEC運営ノウハウをAI向けにパッケージ化した「Skill」とマーチャンダイジング（MD）テンプレートの販売を開始した。",
+    "bullets": [
+      "提供されるSkillは「ECディレクター」「ECライター」「カスタマーサポート担当」「ECマーケター」の4種で、それぞれの実務ノウハウをAIエージェントに実行させる形で提供する。",
+      "販売・情報発信はBOOTHとnoteを通じて行う。",
+      "オークファンは2007年6月設立、資本金は2025年9月末時点で連結9億7,368万円に上る。"
+    ],
+    "cardBullets": [
+      "aucfanがEC運営ノウハウをAI向けにパッケージ化、Skill販売開始。",
+      "「ECディレクター」等4種のSkillとMDテンプレートを提供。",
+      "オークファンは資本金9億7,368万円、EC実務のAI化を後押し。"
+    ],
+    "meaning": "商品タグ付けや検索対策のノウハウ自体を「AIエージェントに実行させるスキル」として販売する動きは、EC運営の属人的なノウハウをAIに移管する流れが実務レベルで始まっていることを示す。自社でAI活用を進める際、既製のSkillを使うか自前で整備するかという選択肢が増えてきたことを意味する。",
+    "thumbnail": "https://prcdn.freetls.fastly.net/release_image/8833/538/8833-538-2aa7555bece44a92864c91acc83b5593-860x484.png"
+  },
+  {
+    "slug": "ucp-checker-state-of-agentic-commerce-september-2026",
+    "title": "エージェント型コマース対応、Shopifyストアの導入率60.2%に UCP Checker調査",
+    "sourceUrl": "https://ucpchecker.com/blog/state-of-agentic-commerce-september-2026",
+    "source": "UCP Checker",
+    "date": "2026-09-22",
+    "dateDisplay": "2026年9月22日",
+    "platforms": ["other-ai"],
+    "viewpoint": "seller",
+    "theme": "measurement",
+    "background": "独立系の監視サービス「UCP Checker」は、AIエージェント向けの公開データ規格「Universal Commerce Protocol（UCP）」を採用するオンラインストアの実態を8ヶ月連続で定点観測し、2026年9月時点の最新レポートを公表した。",
+    "bullets": [
+      "検証対象は22,520ストアフロントで、そのうち17,767件のUCP対応が確認された（Shopify 10,632件、Wix 6,929件など）。",
+      "最新バージョン「UCP v2026-08-25」の採用率は60.2%に達した。",
+      "「アイデンティティリンク宣言」を行っているストアは7,355件で、Shopify・Wix・BigCommerce・WooCommerce・Salesforce Commerce Cloud（10月にGA予定）など14のプラットフォームで対応が確認されている。",
+      "調査は公開UCPマニフェストを持つ全ストアを対象に24時間ごとに再クロールする方式で、8ヶ月間同一の方法で継続測定されている。"
+    ],
+    "cardBullets": [
+      "UCP対応ストアは17,767件、Shopifyが1万件超で最多。",
+      "最新規格「UCP v2026-08-25」の採用率は60.2%に到達。",
+      "14プラットフォームが対応、Salesforceも10月にGA予定。"
+    ],
+    "meaning": "AIエージェントが商品情報を読み取るための「共通規格」への対応状況が、業界横断で定量的に見える段階になってきたことを示すデータである。自社が使うプラットフォームがこうした規格にどこまで対応しているかを把握し、対応が進んでいない場合の代替策を検討する材料になる。",
+    "thumbnail": "https://ucpchecker.s3.eu-west-1.amazonaws.com/blog/state-of-agentic-commerce-september-2026/ucp_adoption_report_sep_26.webp"
+  },
+  {
+    "slug": "ecpro-brain-promotion-plan-rakuten-event",
+    "title": "EC特化AIエージェント「ECPRO BRAIN」、楽天市場イベント後の設定復元を自動化する新機能を追加",
+    "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000077.000085035.html",
+    "source": "PR TIMES（株式会社Proteinum）",
+    "date": "2026-09-24",
+    "dateDisplay": "2026年9月24日",
+    "platforms": ["rakuten"],
+    "viewpoint": "seller",
+    "theme": "optimization",
+    "background": "株式会社Proteinumは、EC特化型AIエージェント「ECPRO BRAIN」に新機能「販促プラン」を追加し、楽天市場の「お買い物マラソン」「スーパーSALE」などのイベント終了後に必要だった設定の戻し作業を自動化した。",
+    "bullets": [
+      "従来、イベント終了後に必要だった設定を元に戻すためのCSV作成・アップロード作業が不要になった。",
+      "対応イベントは「お買い物マラソン」「スーパーSALE」「ワンダフルデー」「ご愛顧感謝デー」など楽天市場の主要セールを網羅する。",
+      "Proteinumは2020年8月設立、資本金900万円の企業である。"
+    ],
+    "cardBullets": [
+      "ECPRO BRAINが楽天セール後の設定戻し作業をAIで自動化した。",
+      "お買い物マラソン等、主要セールイベントに対応する新機能。",
+      "従来必要だったCSV作成・アップロード作業が不要になった。"
+    ],
+    "meaning": "AIエージェントの活用は「商品をAIに見つけてもらう」段階だけでなく、EC事業者自身の運営作業を代行する「業務効率化エージェント」としても実用段階に入ってきている。商品タグ付けや検索対策と同様に、日々の運営の定型作業をAIに任せる選択肢が広がっている実例である。",
+    "thumbnail": "https://prcdn.freetls.fastly.net/release_image/85035/77/85035-77-703f2a2c17eab7fc6eac7735c5ea3daf-2816x1536.jpg"
+  }
+]
