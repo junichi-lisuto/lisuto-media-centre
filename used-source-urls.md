@@ -3,6 +3,16 @@
 記事候補を探す前に必ずこの一覧を確認し、ここに載っているURLと同じ元記事は候補から除外すること。
 生成元: articles.json（更新日: 2026-09-28）
 
+- https://prtimes.jp/main/html/rd/p/000000376.000068228.html
+- https://prtimes.jp/main/html/rd/p/000000019.000079006.html
+- https://www.cyberagent.co.jp/news/detail/id=33787
+- https://ecnomikata.com/original_news/51209/
+- https://www.commercepick.com/archives/100906
+- https://manamina.valuesccg.com/articles/5225
+- https://fortune.com/2026/09/27/walmart-ceo-ai-shopping-assistant-personal-information-prices-digital-labels/
+- https://www.1digitalagency.com/blog/how-to-get-your-shopify-products-featured-in-googles-ai-overviews-a-2026-case-st/
+- https://www.fool.com/investing/breakfast-news/2026/09/22/breakfast-news-shopify-just-became-ais-checkout/
+- https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-plugin-amazon-quick-claude
 - https://ucpchecker.com/blog/state-of-agentic-commerce-september-2026
 - https://forkast.news/shopify-turns-on-agent-checkout-by-default-for-a-million-merchants/
 - https://nielseniq.com/global/en/news-center/2026/majority-of-u-s-consumers-now-use-ai-to-shop-niq-finds/
