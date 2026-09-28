@@ -1,0 +1,22 @@
+{
+  "slug": "amazon-seller-assistant-claude-plugin",
+  "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/amazon-seller-assistant-claude-plugin.html",
+  "sourceUrl": "https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-plugin-amazon-quick-claude",
+  "platforms": [
+    "amazon"
+  ],
+  "viewpoint": "seller",
+  "theme": "optimization",
+  "source": "About Amazon",
+  "date": "2026-09-23",
+  "title": "Amazon、セラーアシスタントをAnthropicのClaudeと連携するプラグインをベータ提供開始",
+  "bullets": [
+    "AmazonがセラーセントラルをClaude経由で操作できるベータ機能を発表。",
+    "連携設定はコード不要で約60秒、米国出品者からベータ提供開始。",
+    "セラーアシスタントは既に出品者の9割超が利用する主力機能に。"
+  ],
+  "thumbnail": {
+    "type": "image",
+    "url": "https://assets.aboutamazon.com/dims4/default/56bbbae/2147483647/strip/true/crop/2550x1275+0+159/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2Ff2%2F04%2Ffd4576b74c66be6294fc5f69edd1%2Faccelerate-2026-seller-assistant-hero-feature.jpg"
+  }
+}
