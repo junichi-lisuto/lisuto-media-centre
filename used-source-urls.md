@@ -1,8 +1,16 @@
 # 既出の元記事URL一覧（自動生成）
 
 記事候補を探す前に必ずこの一覧を確認し、ここに載っているURLと同じ元記事は候補から除外すること。
-生成元: articles.json（更新日: 2026-09-28）
+生成元: articles.json（更新日: 2026-09-29）
 
+- https://www.checkout.com/guides-and-reports/agentic-commerce-2026
+- https://prtimes.jp/main/html/rd/p/000000717.000045863.html
+- https://prtimes.jp/main/html/rd/p/000000238.000071371.html
+- https://optyino.ai/press/ec-site-citation-rate-analysis
+- https://prtimes.jp/main/html/rd/p/000005552.000000136.html
+- https://k-tai.watch.impress.co.jp/docs/news/2142849.html
+- https://prtimes.jp/main/html/rd/p/000001796.000129774.html
+- https://netshop.impress.co.jp/n/2026/09/28/16789
 - https://prtimes.jp/main/html/rd/p/000000376.000068228.html
 - https://prtimes.jp/main/html/rd/p/000000019.000079006.html
 - https://www.cyberagent.co.jp/news/detail/id=33787

@@ -1,7 +1,191 @@
 {
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-09-29",
   "schemaVersion": 2,
   "articles": [
+    {
+      "slug": "checkout-com-agentic-commerce-survey-20260617",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/checkout-com-agentic-commerce-survey-20260617.html",
+      "sourceUrl": "https://www.checkout.com/guides-and-reports/agentic-commerce-2026",
+      "platforms": [
+        "other-ai"
+      ],
+      "viewpoint": "buyer",
+      "theme": "visibility",
+      "source": "Checkout.com",
+      "date": "2026-06-17",
+      "title": "AIエージェント経由の購買、消費者は「委ねてよい上限」を1回177ポンドと回答",
+      "bullets": [
+        "消費者がAIに委ねてよい金額は1回177ポンドと回答。",
+        "AI主導の購買は消費者予想で1年以内に10%超との声も。",
+        "現状の取引比率は3%も、加盟店の89%が準備を進める。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://cdn.prod.website-files.com/64db80a5e88c6b1723ff7649/6a16ccd13896c4008c975530_Report%20cover%20image%20for%20LP_630x450_Agentic%20Report%202026%20EN.png"
+      }
+    },
+    {
+      "slug": "ideatech-btob-buyer-ai-survey-part3-20260929",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/ideatech-btob-buyer-ai-survey-part3-20260929.html",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000717.000045863.html",
+      "platforms": [
+        "chatgpt",
+        "other-ai"
+      ],
+      "viewpoint": "buyer",
+      "theme": "measurement",
+      "source": "株式会社IDEATECH（PR TIMES）",
+      "date": "2026-09-29",
+      "title": "500万円以上のBtoB購買、9割が生成AIを選定に利用 「見えない検討期間」が存在",
+      "bullets": [
+        "500万円以上のBtoB購買、9割が生成AIを選定に活用。",
+        "課題整理の入口は生成AI36.5%、検索エンジンを上回る。",
+        "問い合わせ前に候補が固まる「見えない検討期間」が存在。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://prcdn.freetls.fastly.net/release_image/45863/717/45863-717-194baf94c4bf11c793a5f51c5a62e404-960x720.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+      }
+    },
+    {
+      "slug": "excrie-generative-ai-shopping-survey-20260515",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/excrie-generative-ai-shopping-survey-20260515.html",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000238.000071371.html",
+      "platforms": [
+        "other-ai",
+        "chatgpt",
+        "google"
+      ],
+      "viewpoint": "buyer",
+      "theme": "measurement",
+      "source": "株式会社エクスクリエ（PR TIMES）",
+      "date": "2026-05-15",
+      "title": "生成AI利用者の約7割が買い物で活用、購入経験者は6割超に",
+      "bullets": [
+        "生成AI利用者の69.9%が買い物での活用経験ありと回答。",
+        "AIで調べた商品を実際に購入した人は61.3%に達する。",
+        "活用内容は「商品の絞り込み」18.2%がトップ。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://prcdn.freetls.fastly.net/release_image/71371/238/71371-238-2fe98a1c4f22b97e25fb3f9663b4f360-2220x762.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+      }
+    },
+    {
+      "slug": "wallabee-optyino-ec-citation-rate-20260713",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/wallabee-optyino-ec-citation-rate-20260713.html",
+      "sourceUrl": "https://optyino.ai/press/ec-site-citation-rate-analysis",
+      "platforms": [
+        "chatgpt",
+        "google",
+        "other-ai"
+      ],
+      "viewpoint": "seller",
+      "theme": "measurement",
+      "source": "株式会社Wallabee（Optyino.ai）",
+      "date": "2026-07-13",
+      "title": "生成AIの回答にECサイトが引用される割合は76.72%、モデル間で最大35ポイントの差",
+      "bullets": [
+        "AI回答のEC引用率は76.72%、3.2万件の回答を分析。",
+        "EC回答率はCopilot92.85%〜ChatGPT57.98%とモデル差大。",
+        "引用の74%は回答本文中への直接記載、出典欄より多い。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://media.optyino.ai/press/f6a86848-aa5a-4782-8d4b-ed75c0607126/featured/9723e007-ee71-4a0a-85b9-9917b7d5137e/original.webp"
+      }
+    },
+    {
+      "slug": "gmo-aio-boost-survey-20260929",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/gmo-aio-boost-survey-20260929.html",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000005552.000000136.html",
+      "platforms": [
+        "chatgpt",
+        "google",
+        "other-ai"
+      ],
+      "viewpoint": "seller",
+      "theme": "optimization",
+      "source": "GMO NIKKO株式会社（GMO AIOブースト・PR TIMES）",
+      "date": "2026-09-29",
+      "title": "企業の9割がAIO/LLMO対策を実施も、9割超がAI経由の流入減少に危機感",
+      "bullets": [
+        "企業の90.5%がAIO/LLMO対策を実施、危機感は93.5%に達する。",
+        "危機感が「全社共有」なのは16.5%、組織対応にばらつき。",
+        "課題は「効果測定・KPI設計の難しさ」が37.9%でトップ。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://prcdn.freetls.fastly.net/release_image/136/5552/136-5552-93b8dadd77382a91d1de4feaa6702529-2400x1260.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+      }
+    },
+    {
+      "slug": "aupay-market-ai-fraud-detection-20260924",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/aupay-market-ai-fraud-detection-20260924.html",
+      "sourceUrl": "https://k-tai.watch.impress.co.jp/docs/news/2142849.html",
+      "platforms": [
+        "other-ai"
+      ],
+      "viewpoint": "seller",
+      "theme": "measurement",
+      "source": "ケータイWatch",
+      "date": "2026-09-24",
+      "title": "au PAYマーケット、AIで違反出品の検知効率600%向上 やらせ注文は98%削減",
+      "bullets": [
+        "au PAYマーケット、AIで違反出品の検知効率600%向上。",
+        "ユーザー通報は43%減、やらせ注文は98%削減を達成。",
+        "AI導入と規制強化を段階的に積み上げた成果と説明。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://k-tai.watch.impress.co.jp/img/ktw/list/2142/849/02.jpg"
+      }
+    },
+    {
+      "slug": "yahoo-shopping-ai-coordinate-20260902",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/yahoo-shopping-ai-coordinate-20260902.html",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000001796.000129774.html",
+      "platforms": [
+        "yahoo"
+      ],
+      "viewpoint": "seller",
+      "theme": "optimization",
+      "source": "LINEヤフー株式会社（PR TIMES）",
+      "date": "2026-09-02",
+      "title": "Yahoo!ショッピング「AIおまかせコーディネート」、4ストアで先行提供 AI経由の取扱高は既に2割",
+      "bullets": [
+        "Yahoo!ショッピングのAI経由取扱高、7月時点で約2割に。",
+        "「AIおまかせコーディネート」を4ストアで先行提供開始。",
+        "コーディネート提案・サイズ比較・情報要約の3機能を搭載。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://prcdn.freetls.fastly.net/release_image/129774/1796/129774-1796-588dd6f0a6ecc943aa5df6c85160cc93-2400x1256.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+      }
+    },
+    {
+      "slug": "yahoo-shopping-youtube-affiliate-20260928",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/yahoo-shopping-youtube-affiliate-20260928.html",
+      "sourceUrl": "https://netshop.impress.co.jp/n/2026/09/28/16789",
+      "platforms": [
+        "yahoo",
+        "other-ai"
+      ],
+      "viewpoint": "seller",
+      "theme": "visibility",
+      "source": "ネットショップ担当者フォーラム",
+      "date": "2026-09-28",
+      "title": "Yahoo!ショッピング、YouTubeショッピングアフィリエイトと連携 動画から直接購入導線を構築",
+      "bullets": [
+        "Yahoo!ショッピングがYouTubeショッピングと連携開始。",
+        "動画内タグ付けから商品ページへ直接遷移、基本料率2〜4%。",
+        "ショッピング動画の再生時間は前年比50%以上増加。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://netshop.impress.co.jp/sites/default/files/styles/1200x630/public/images/news/2026/news-node16789-ogp.jpg?itok=-QHMFzfQ"
+      }
+    },
     {
       "slug": "planb-ec-staff-ai-mention-measures-survey",
       "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/planb-ec-staff-ai-mention-measures-survey.html",
