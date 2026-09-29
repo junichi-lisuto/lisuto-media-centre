@@ -1,0 +1,255 @@
+[
+  {
+    "slug": "ai-search-shopping-usage-34percent-20260929",
+    "title": "買い物でAI検索・生成AIを使った人は約34%、家電・ガジェットが最多に",
+    "sourceUrl": "https://netshop.impress.co.jp/n/2026/09/29/16798",
+    "source": "ネットショップ担当者フォーラム",
+    "date": "2026-09-29",
+    "dateDisplay": "2026年9月29日",
+    "platforms": ["chatgpt", "google"],
+    "viewpoint": "buyer",
+    "theme": "measurement",
+    "background": "Iteraが2026年9月にスクリーニング調査(2,000人)と本調査(300人)を実施し、買い物における生成AI・AI検索の利用実態を調べた。ChatGPTやGeminiの普及に伴い、購買行動の起点が従来の検索エンジンからAIに移りつつある実態を数値で示した調査である。",
+    "bullets": [
+      "買い物や店選びで生成AI・AI検索を使った経験がある人は34.0%に達した。",
+      "調べたジャンルの1位は「家電・ガジェット」で39.6%、2位は「旅行・ホテル」で31.5%、3位は「飲食店」で28.0%だった。",
+      "利用したAIサービスはChatGPTが54.0%、Geminiが49.7%で、両サービスの併用も目立つ。",
+      "AIから提案された新商品を認知した経験がある人は45.7%に上った。",
+      "AIの提案を受けて購入をやめた・別の商品に変更した経験がある人も50.3%に達し、AIが購買の意思決定に強く介入している実態が明らかになった。"
+    ],
+    "cardBullets": [
+      "買い物でAI検索を使った人は34%、家電・ガジェットが最多に。",
+      "ChatGPT54%・Gemini49.7%が利用の中心、併用も目立つ。",
+      "AI提案で購入をやめた人は50.3%、意思決定への影響は大きい。"
+    ],
+    "meaning": "「AIに提案されて買わなくなった」が5割に達した事実は、AIタッガーユーザーにとって見過ごせない。商品タグや説明文が不十分だと、AIが自社商品を提案候補から外すだけでなく、いったん提案した後でも他社商品への乗り換えを後押ししてしまう。露出させることと、露出後に選ばれ続けることは別の課題であるという前提で商品情報を整える必要がある。",
+    "thumbnail": "https://netshop.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news/2026/news-node16798-2.png"
+  },
+  {
+    "slug": "ai-travel-search-usage-42percent-20260929",
+    "title": "宿泊先選びでAIツールを使う人は約42%、Googleマップと並ぶ情報源に",
+    "sourceUrl": "https://netshop.impress.co.jp/n/2026/09/29/16797",
+    "source": "ネットショップ担当者フォーラム",
+    "date": "2026-09-29",
+    "dateDisplay": "2026年9月29日",
+    "platforms": ["other-ai"],
+    "viewpoint": "buyer",
+    "theme": "measurement",
+    "background": "movが実施した調査により、宿泊先選びにおける生成AIの利用実態が明らかになった。SNSや比較サイトと並ぶ選択肢としてAIツールが急速に浸透している状況を、購買行動データとして具体的に示した。",
+    "bullets": [
+      "宿泊先を探す際にAIツールを利用した人は41.9%で、Googleマップの41.2%とほぼ同水準に達した。",
+      "SNSを利用した人は29.6%、比較サイトを利用した人は27.7%で、AIツールがすでに主要な情報源の一つになっている。",
+      "AIが提案した宿泊先に実際に足を運んだ人は55.2%に達した。",
+      "AIツールを利用した後にGoogle検索で確認する人は60.9%おり、AIと検索を併用する行動が定着している。",
+      "AIを使う理由は「検索の時間や手間を省ける」が64.9%、「自分の好みや条件に合わせた提案」が56.3%だった。"
+    ],
+    "cardBullets": [
+      "宿泊先探しでAI利用42%、Googleマップと同水準に浮上。",
+      "AI提案先への訪問率は55.2%、提案が実際の行動に直結。",
+      "AI利用後もGoogle検索で確認する人が61%、併用が定着。"
+    ],
+    "meaning": "「AIで探して、検索で確認する」という2段階の行動が定着しているという事実は、AIタッガーユーザーにも重要な示唆を持つ。AIの提案に載ることだけでなく、その後の確認検索でも同じ情報が一致して出てくることが、最終的な来店・購入につながる条件になる。AI経由の露出とウェブ検索経由の露出を、別々の対策として捉えていると片方が抜け落ちる。",
+    "thumbnail": "https://netshop.impress.co.jp/sites/default/files/styles/picturize_zoom/public/images/news/2026/news-node16797-1.png"
+  },
+  {
+    "slug": "shopify-webmcp-checkout-agents-20260928",
+    "title": "Shopify、ブラウザ型AIエージェントに決済機能を開放 チェックアウト完結が可能に",
+    "origTitle": "Shopify opens checkout to browser-based AI agents",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "source": "TechCrunch",
+    "date": "2026-09-28",
+    "dateDisplay": "2026年9月28日",
+    "platforms": ["other-ai"],
+    "viewpoint": "seller",
+    "theme": "visibility",
+    "background": "Shopifyは、ブラウザ上で動作するAIエージェント向けにWebMCP(Web Model Context Protocol)の決済機能対応を発表した。これまでAIエージェントは商品検索とカート追加までしか行えなかったが、今回の対応により購入完了までを一貫して任せられるようになった。AmazonがMetaのAIエージェント「Muse」の自社サイトへのアクセスを制限する一方、Shopifyは逆に開放する戦略を取っている。",
+    "bullets": [
+      "WebMCP対応により、AIエージェントは「get_checkout(決済画面の確認)」「update_checkout(配送先・配送方法の変更)」「complete_checkout(購入者承認による注文確定)」の3つの操作を実行できるようになった。",
+      "対応範囲はすべての適格Shopifyマーチャントで、スクリーンショットやスクレイピングに依存せず、決済画面を直接読み取り・更新・送信できる。",
+      "Meta「Muse」やInstinctといったAIエージェントとの新規パートナーシップも同時に発表された。",
+      "AmazonやAdidasはAIエージェントによる購入代行を制限する側に立っており、業界内でエージェントへの開放度に明確な差が生まれている。"
+    ],
+    "cardBullets": [
+      "ShopifyがAIエージェント向け決済API「WebMCP」を発表。",
+      "決済画面の確認・変更・確定までエージェントが一貫実行可能に。",
+      "Amazonはエージェントを制限する一方、Shopifyは開放へ。"
+    ],
+    "meaning": "決済までAIエージェントに委ねる動きが進むと、EC事業者が意識していなくても、AIが商品を選び、カートに入れ、決済まで完了させる場面が増える。商品ページの情報がAIにとって読み取りやすい形で整っていなければ、比較検討の段階で候補から外れるだけでなく、購入完了の直前で他社に切り替えられるリスクも生じる。",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1238591177.jpg?resize=1200,800"
+  },
+  {
+    "slug": "shopify-shop-pay-muse-checkout-20260922",
+    "title": "Shopify、Meta「Muse」にShop Pay決済を統合 全店舗でエージェント決済が可能に",
+    "origTitle": "Shopify Brings Shop Pay Checkout Solution to Meta's Muse AI Agent",
+    "sourceUrl": "https://www.pymnts.com/commerce/ecommerce/2026/shopify-brings-shop-pay-checkout-solution-to-metas-muse-ai-agent/",
+    "source": "PYMNTS",
+    "date": "2026-09-22",
+    "dateDisplay": "2026年9月22日",
+    "platforms": ["other-ai"],
+    "viewpoint": "seller",
+    "theme": "visibility",
+    "background": "ShopifyとMetaは、Metaの個人向けAIエージェント「Muse」にShopifyの決済サービス「Shop Pay」を統合する提携を発表した。Shopify CEOのTobias Lütkeが2026年9月21日にX上で発表したもので、Museがすべてのshopifyストアでエージェント決済を行えるようになる。",
+    "bullets": [
+      "Shop Payは2026年6月時点で生涯取扱高が4,000億ドルを超えており、この決済基盤がMuseのエージェント決済にそのまま使われる。",
+      "AIを用いた検索経由でECサイトを訪れたユーザーは、一般的なサイト内検索と比較してコンバージョン率が約80%高いというデータが示されている。",
+      "AI検索から製品ページへの到達率は、一般的なサイト内検索の2.5倍に達するという。",
+      "AmazonがMuseを自社ECサイトから排除する対応を取ったのとは対照的に、Shopifyは全店舗をMuseに開放する戦略を選んだ。"
+    ],
+    "cardBullets": [
+      "ShopifyがMeta「Muse」にShop Pay決済を統合。",
+      "AI検索経由の訪問はCVRが通常より約80%高いというデータも。",
+      "Amazonの排除方針とは対照的に、Shopifyは全面開放。"
+    ],
+    "meaning": "AI経由の訪問者はコンバージョン率が高いというデータは、AIに選ばれた商品ほど売れやすいという構造を裏付けている。裏を返せば、AIに選ばれない商品はこれまで以上に埋没しやすくなるということでもある。露出の差が売上の差に直結する局面が、決済までAIに委ねられることで一段と強まる。",
+    "thumbnail": "https://www.pymnts.com/wp-content/uploads/2025/04/Shopify-AI-1.jpg"
+  },
+  {
+    "slug": "ahrefs-ai-overviews-cited-domains-20260902",
+    "title": "Google AI Overviewsで最も引用されるドメイン、YouTubeが1位に",
+    "origTitle": "The 50 Most-Cited Websites in Google AI Overviews (September 2026)",
+    "sourceUrl": "https://ahrefs.com/blog/most-cited-domains-ai-overviews/",
+    "source": "Ahrefs",
+    "date": "2026-09-02",
+    "dateDisplay": "2026年9月2日",
+    "platforms": ["google"],
+    "viewpoint": "seller",
+    "theme": "measurement",
+    "background": "Ahrefsは自社ツール「Brand Radar」を用い、300万件以上の米国検索クエリを対象にGoogle AI Overviewsの引用元ドメインを追跡・分析した。月次で更新される定点調査であり、2026年9月2日更新版で最新のドメイン別引用シェアが示された。",
+    "bullets": [
+      "Google AI Overviewsが最も引用したドメインはYouTube.comで、上位50サイトの総引用に占める「メンション・シェア」は22.9%だった。",
+      "2位はReddit.comで18.5%、3位はFacebook.comで10.1%、4位はGoogle.comで8.8%、5位はInstagram.comで5.6%だった。",
+      "Google AI Overviewsは月間20億人以上に到達しており、これは地球人口の約4分の1に相当する規模だとAhrefsは指摘している。",
+      "上位に並ぶのはUGC・動画・SNSプラットフォームが中心で、単独のブランド・ECサイトが上位50に食い込む例は限られている。"
+    ],
+    "cardBullets": [
+      "AI Overviewsの引用ドメイン1位はYouTube、シェア22.9%。",
+      "Reddit18.5%・Facebook10.1%が続き、UGC系が上位を占める。",
+      "AI Overviewsは月間20億人規模、地球人口の4分の1に到達。"
+    ],
+    "meaning": "引用元の上位がUGC・動画・SNSに集中しているという事実は、単独のECサイトが直接AIに引用されるハードルの高さを示している。自社サイトへの引用だけを目指すのではなく、レビューやSNS上のUGCを含めた商品情報の一貫性を整えることが、AIに拾われる経路を増やす現実的な近道になる。",
+    "thumbnail": "https://ahrefs.com/blog/wp-content/uploads/2026/06/most-cited-domains-ai-overviews-chart.png"
+  },
+  {
+    "slug": "coloreme-ai-analytics-20260826",
+    "title": "「カラーミーショップ」、ChatGPT・Gemini経由の流入・購入を計測する無料アプリを提供開始",
+    "sourceUrl": "https://netshop.impress.co.jp/n/2026/08/26/16615",
+    "source": "ネットショップ担当者フォーラム",
+    "date": "2026-08-26",
+    "dateDisplay": "2026年8月26日",
+    "platforms": ["chatgpt", "google"],
+    "viewpoint": "seller",
+    "theme": "measurement",
+    "background": "GMOペパボは、ECサイト構築サービス「カラーミーショップ」向けに、ChatGPTやGemini経由の流入・購入を自動計測する無料アプリ「カラーミーAI集客アナリティクス」の提供を開始した。AI経由の集客が「見えない」という店舗運営者の課題に応える機能である。",
+    "bullets": [
+      "ChatGPTやGeminiなどの生成AIサービスからの流入・購入を自動で判別し、可視化する。",
+      "従来はアクセス解析ツールでAI経由の流入を判別しにくく、店舗側が実態を把握できていなかった課題に対応した。",
+      "「カラーミーショップ byGMOペパボ」では、2026年2月から3月にかけてAI経由と判別できる流入が前年同期比で6倍以上に増加している実態も明らかになっている。",
+      "アプリは無料で提供され、既存の店舗運営者がすぐに導入できる。"
+    ],
+    "cardBullets": [
+      "カラーミーショップがAI経由流入の計測アプリを無料提供。",
+      "ChatGPT・Gemini経由の流入・購入を自動判別・可視化。",
+      "AI経由流入は前年比6倍以上に急増との実態も判明。"
+    ],
+    "meaning": "「AI経由の流入は前年比6倍」という数字が出てきたのは、それを計測する手段が整ったからにほかならない。計測できなければ対策の優先度も上がらない。AI経由の流入・購入を可視化する仕組みが広がるほど、タグ付けや商品情報整備の効果を数字で示しやすくなり、投資判断の材料になる。",
+    "thumbnail": "https://netshop.impress.co.jp/sites/default/files/styles/1200x630/public/images/news/2026/news-node16615-ogp.jpeg?itok=BGBUqM-V"
+  },
+  {
+    "slug": "sme-ec-ai-tool-usage-survey-20260706",
+    "title": "中小EC事業者のAIツール利用、ChatGPTが47.6%で最多 課題は「属人化」",
+    "sourceUrl": "https://netshop.impress.co.jp/n/2026/07/06/16359",
+    "source": "ネットショップ担当者フォーラム",
+    "date": "2026-07-06",
+    "dateDisplay": "2026年7月6日",
+    "platforms": ["chatgpt", "google", "other-ai"],
+    "viewpoint": "seller",
+    "theme": "measurement",
+    "background": "PayPalが実施した「中小企業によるEコマース活用実態調査2026」(2026年4月8〜13日、従業員4〜299人規模のEC実施企業の部長職以上310人を対象)に基づき、中小EC事業者のAI導入実態と課題が報告された。",
+    "bullets": [
+      "AI導入率は約70%に達し、利用ツールはChatGPTが47.6%、Geminiが33.5%、Copilotが22.2%だった。",
+      "導入企業の87.1%が何らかの課題を感じており、「業務の属人化」が20.8%、「導入前の業務整理が必要」が19.8%、「費用の負担」が18.8%を占めた。",
+      "今後AI活用を進める予定と回答した企業は48.7%にとどまり、24.8%は導入・活用が進まない見通しだと回答した。"
+    ],
+    "cardBullets": [
+      "中小EC事業者のAI導入率は約70%、ChatGPTが47.6%で最多。",
+      "課題は「業務の属人化」が20.8%でトップ、費用負担も18.8%。",
+      "今後の活用拡大に前向きなのは48.7%にとどまる。"
+    ],
+    "meaning": "AIツールの個人利用は広がっているのに、業務プロセスへの組み込みは属人化した知見の壁で止まっている、という構図は多くの現場に共通する。商品タグ付けのような業務は、まさに「誰かの頭の中にしかない基準」が属人化を生みやすい領域であり、仕組み化によって解ける余地が大きい。",
+    "thumbnail": "https://netshop.impress.co.jp/sites/default/files/images/news/2026/news-node16359-1.png"
+  },
+  {
+    "slug": "us-ec-ai-traffic-138percent-20260723",
+    "title": "米国ECで生成AI経由の流入が前年比138%増、CVRも42%高いと判明",
+    "sourceUrl": "https://netshop.impress.co.jp/e/2026/07/23/16448",
+    "source": "ネットショップ担当者フォーラム(海外のEC事情ウォッチ)",
+    "date": "2026-07-23",
+    "dateDisplay": "2026年7月23日",
+    "platforms": ["chatgpt", "google", "other-ai"],
+    "viewpoint": "seller",
+    "theme": "measurement",
+    "background": "米国EC企業の実データをもとに、ChatGPTやGemini、Perplexityといった生成AIプラットフォームからの流入がECの購買行動にどう影響しているかが分析された。Google依存からの脱却が進む米国ECの現状を伝える内容である。",
+    "bullets": [
+      "ChatGPTやGemini、PerplexityなどのAIプラットフォームからECサイトへの流入は、前年同月比138%増(約2.4倍)を記録した。",
+      "AI経由で流入したユーザーは、AI以外の経路と比較して購入に至る割合が42%高い。",
+      "記事はAIコマース時代の3大トレンドとして、①AIプラットフォームからの商品発見(商品カタログデータの最適化)、②パーソナライズによるCVR向上、③決済プロセスの最適化、を挙げている。"
+    ],
+    "cardBullets": [
+      "米国ECでAI経由流入が前年比138%増、約2.4倍に急増。",
+      "AI経由の訪問者は購入に至る割合が42%高いと判明。",
+      "カタログ最適化・パーソナライズ・決済がAIコマースの3トレンド。"
+    ],
+    "meaning": "流入が増えるだけでなく購入率も高いという事実は、AI経由の訪問者が「すでに絞り込まれた見込み客」であることを示している。商品カタログの情報が薄いと、この質の高い流入を最後の一歩で逃してしまう。流入数だけでなく、その先の商品情報の充実度が問われている。",
+    "thumbnail": "https://netshop.impress.co.jp/sites/default/files/styles/1200x630/public/images/article/2026/DigitalCommerce/node16448-1.jpg?itok=tO8qhM2S"
+  },
+  {
+    "slug": "rakuten-ai-ad-delivery-interview-20260924",
+    "title": "「ターゲティング設定はもう不要」 楽天のAI配信、購買履歴10年分から需要を予測",
+    "sourceUrl": "https://www.exchangewire.jp/2026/09/24/interview-rakuten-4/",
+    "source": "ExchangeWire Japan",
+    "date": "2026-09-24",
+    "dateDisplay": "2026年9月24日",
+    "platforms": ["rakuten"],
+    "viewpoint": "seller",
+    "theme": "visibility",
+    "background": "楽天グループの田中利昌氏へのインタビューを通じ、広告業界がデモグラフィック属性によるターゲティング設定から、AIが購買パターンを自動抽出する「AI配信」へ移行している実態が語られた。楽天の購買履歴データベース「Rakuten Customer DNA(CDNA)」を用いたソリューション「未来購買予測」が具体例として紹介されている。",
+    "bullets": [
+      "「未来購買予測」は、10年以上遡った購買履歴データを活用し、AIが人間には発見しづらい長期的な購買パターンを自動抽出する。",
+      "不動産商材では成約の約3年前からのキッズ・ベビー用品購入、数ヶ月前からのインテリア用品購入が予測因子として機能する。",
+      "教育商材では約5年前の抱っこ紐購入が予測因子になるなど、1000日〜2000日単位の長期的な購買行動の関連性をAIが特定する。",
+      "従来のデモグラフィック属性によるセグメント設定ではなく、AIが購買パターンそのものから配信対象を決定する方式へ転換している。"
+    ],
+    "cardBullets": [
+      "楽天のAI配信、属性設定に代わり購買パターンで対象を決定。",
+      "10年分の購買履歴からAIが長期的な予測因子を自動抽出。",
+      "不動産・教育など、数年単位の購買行動の関連性まで特定。"
+    ],
+    "meaning": "「今検索しているかどうか」ではなく「何年も前から積み重ねてきた購買履歴」が商品との出会いを決めるようになるという話は、タグ付けの役割が変わることを示している。目先の検索キーワードに合わせるだけでなく、長期的に蓄積されるデータの中で自社商品がどう解釈されるかまで見据えた情報整備が求められる。",
+    "thumbnail": "https://cdn.exchangewire.com/wp-content/uploads/2026/09/r4-1.jpg"
+  },
+  {
+    "slug": "centric-plm-ai-product-data-20260929",
+    "title": "商品ライフサイクルの分断がAI活用のボトルネックに、PLM/PXM活用で計画期間を1/4に短縮した事例も",
+    "sourceUrl": "https://news.mynavi.jp/techplus/kikaku/20260929-4977208/",
+    "source": "マイナビTECH+",
+    "date": "2026-09-29",
+    "dateDisplay": "2026年9月29日",
+    "platforms": ["other-ai"],
+    "viewpoint": "seller",
+    "theme": "optimization",
+    "background": "セントリックソフトウェアが提供するPLM(製品ライフサイクル管理)・PXM(商品体験管理)ソリューションを軸に、商品データの分断がAI活用の妨げになっている実態と解決策が解説された。「計画する」「開発する」「伝える」という3段階を通じて市場分析から顧客への情報配信までをつなぐアプローチが紹介されている。",
+    "bullets": [
+      "AIが商品を正しく理解・推薦するためには、構造化・一貫性・意味・関係性の明確化・正確性という4つの要件が必要だと指摘されている。",
+      "PLM/PXMを導入した企業では、企画から商品化までの計画サイクルが1ヶ月から1週間に短縮された事例がある。",
+      "同事例では営業利益率が5.6%から12%へ2倍以上に向上した。",
+      "企画・調達業務は商品化までのリードタイムの60〜80%、オペレーションコストの30%を占めるとされ、この部分の分断がAI活用のボトルネックになっている。"
+    ],
+    "cardBullets": [
+      "商品データの分断がAI活用のボトルネックになると指摘。",
+      "PLM/PXM導入で計画サイクルが1ヶ月から1週間に短縮した例も。",
+      "同事例で営業利益率は5.6%から12%へ2倍以上に向上。"
+    ],
+    "meaning": "AIタッガーが担うタグ付けも、商品データが整理されていることが前提になる技術である。企画・開発・販促のどこかでデータが分断されていると、タグ付け自体は正確でも、その情報が売り場まで一貫して届かない。AI活用の効果を測るときは、タグ付けの精度だけでなく、データが分断されずに流れているかも合わせて点検する価値がある。",
+    "thumbnail": "https://news.mynavi.jp/techplus/kikaku/20260929-4977208/ogp_images/ogp.jpg"
+  }
+]
