@@ -1,7 +1,456 @@
 {
-  "updatedAt": "2026-09-29",
+  "updatedAt": "2026-09-30",
   "schemaVersion": 2,
   "articles": [
+    {
+      "slug": "us-ec-ai-traffic-138percent-20260723",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/us-ec-ai-traffic-138percent-20260723.html",
+      "sourceUrl": "https://netshop.impress.co.jp/e/2026/07/23/16448",
+      "platforms": [
+        "chatgpt",
+        "google",
+        "other-ai"
+      ],
+      "viewpoint": "seller",
+      "theme": "measurement",
+      "source": "ネットショップ担当者フォーラム(海外のEC事情ウォッチ)",
+      "date": "2026-07-23",
+      "title": "米国ECで生成AI経由の流入が前年比138%増、CVRも42%高いと判明",
+      "bullets": [
+        "米国ECでAI経由流入が前年比138%増、約2.4倍に急増。",
+        "AI経由の訪問者は購入に至る割合が42%高いと判明。",
+        "カタログ最適化・パーソナライズ・決済がAIコマースの3トレンド。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://netshop.impress.co.jp/sites/default/files/styles/1200x630/public/images/article/2026/DigitalCommerce/node16448-1.jpg?itok=tO8qhM2S"
+      }
+    },
+    {
+      "slug": "sme-ec-ai-tool-usage-survey-20260706",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/sme-ec-ai-tool-usage-survey-20260706.html",
+      "sourceUrl": "https://netshop.impress.co.jp/n/2026/07/06/16359",
+      "platforms": [
+        "chatgpt",
+        "google",
+        "other-ai"
+      ],
+      "viewpoint": "seller",
+      "theme": "measurement",
+      "source": "ネットショップ担当者フォーラム",
+      "date": "2026-07-06",
+      "title": "中小EC事業者のAIツール利用、ChatGPTが47.6%で最多 課題は「属人化」",
+      "bullets": [
+        "中小EC事業者のAI導入率は約70%、ChatGPTが47.6%で最多。",
+        "課題は「業務の属人化」が20.8%でトップ、費用負担も18.8%。",
+        "今後の活用拡大に前向きなのは48.7%にとどまる。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://netshop.impress.co.jp/sites/default/files/images/news/2026/news-node16359-1.png"
+      }
+    },
+    {
+      "slug": "shopify-webmcp-checkout-agents-20260928",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/shopify-webmcp-checkout-agents-20260928.html",
+      "sourceUrl": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "platforms": [
+        "other-ai"
+      ],
+      "viewpoint": "seller",
+      "theme": "visibility",
+      "source": "TechCrunch",
+      "date": "2026-09-28",
+      "title": "Shopify、ブラウザ型AIエージェントに決済機能を開放 チェックアウト完結が可能に",
+      "bullets": [
+        "ShopifyがAIエージェント向け決済API「WebMCP」を発表。",
+        "決済画面の確認・変更・確定までエージェントが一貫実行可能に。",
+        "Amazonはエージェントを制限する一方、Shopifyは開放へ。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1238591177.jpg?resize=1200,800"
+      }
+    },
+    {
+      "slug": "shopify-shop-pay-muse-checkout-20260922",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/shopify-shop-pay-muse-checkout-20260922.html",
+      "sourceUrl": "https://www.pymnts.com/commerce/ecommerce/2026/shopify-brings-shop-pay-checkout-solution-to-metas-muse-ai-agent/",
+      "platforms": [
+        "other-ai"
+      ],
+      "viewpoint": "seller",
+      "theme": "visibility",
+      "source": "PYMNTS",
+      "date": "2026-09-22",
+      "title": "Shopify、Meta「Muse」にShop Pay決済を統合 全店舗でエージェント決済が可能に",
+      "bullets": [
+        "ShopifyがMeta「Muse」にShop Pay決済を統合。",
+        "AI検索経由の訪問はCVRが通常より約80%高いというデータも。",
+        "Amazonの排除方針とは対照的に、Shopifyは全面開放。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://www.pymnts.com/wp-content/uploads/2025/04/Shopify-AI-1.jpg"
+      }
+    },
+    {
+      "slug": "rakuten-ai-ad-delivery-interview-20260924",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/rakuten-ai-ad-delivery-interview-20260924.html",
+      "sourceUrl": "https://www.exchangewire.jp/2026/09/24/interview-rakuten-4/",
+      "platforms": [
+        "rakuten"
+      ],
+      "viewpoint": "seller",
+      "theme": "visibility",
+      "source": "ExchangeWire Japan",
+      "date": "2026-09-24",
+      "title": "「ターゲティング設定はもう不要」 楽天のAI配信、購買履歴10年分から需要を予測",
+      "bullets": [
+        "楽天のAI配信、属性設定に代わり購買パターンで対象を決定。",
+        "10年分の購買履歴からAIが長期的な予測因子を自動抽出。",
+        "不動産・教育など、数年単位の購買行動の関連性まで特定。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://cdn.exchangewire.com/wp-content/uploads/2026/09/r4-1.jpg"
+      }
+    },
+    {
+      "slug": "nikkei-generative-ai-shopping-scam-sites-20260929",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/nikkei-generative-ai-shopping-scam-sites-20260929.html",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOUD281SX0Y6A820C2000000/",
+      "platforms": [
+        "other-ai"
+      ],
+      "viewpoint": "buyer",
+      "theme": "measurement",
+      "source": "日本経済新聞",
+      "date": "2026-09-29",
+      "title": "生成AIで商品を調べたら詐欺サイトに誘導、犯罪集団が検索結果を不正操作",
+      "bullets": [
+        "生成AIで商品を調べたら詐欺サイトに誘導される被害が発覚",
+        "2026年2月時点で危険サイトへの誘導が少なくとも422件確認",
+        "犯罪集団が検索結果を不正操作しAIに汚染情報を参照させる手口"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3621794018092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=0dc9f4f9590801be2f704698426b13a3"
+      }
+    },
+    {
+      "slug": "mediaengine-aio-support-verification-plan-20260929",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/mediaengine-aio-support-verification-plan-20260929.html",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000500.000031201.html",
+      "platforms": [
+        "other-ai"
+      ],
+      "viewpoint": "seller",
+      "theme": "optimization",
+      "source": "PR TIMES（メディアエンジン）",
+      "date": "2026-09-29",
+      "title": "AI検索対策の「AIO支援サービス」に小規模検証プランが新設、記事2本120万円から",
+      "bullets": [
+        "AI検索対策「AIO支援サービス」に低コストの検証プランが新設",
+        "検証プランは記事2本120万円・5本195万円から試せる価格設定",
+        "トータルプランは月額77.5万円から、最低契約10か月"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://prcdn.freetls.fastly.net/release_image/31201/500/31201-500-37c22a42383ae3cc82467ec61d59cf10-1200x628.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+      }
+    },
+    {
+      "slug": "google-ai-mode-search-transformation-20260929",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/google-ai-mode-search-transformation-20260929.html",
+      "sourceUrl": "https://time.com/article/2026/09/29/google-search-ai-mode-chat/",
+      "platforms": [
+        "google"
+      ],
+      "viewpoint": "buyer",
+      "theme": "visibility",
+      "source": "TIME",
+      "date": "2026-09-29",
+      "title": "Googleが検索を「AIモード」へ静かに誘導、上位ニュースサイトへの流入は3割減",
+      "bullets": [
+        "Googleが検索デザイン変更で利用者をAIモードへ段階的に誘導",
+        "AIサマリー表示でクリック率が58%減少したとの報告",
+        "上位ニュースサイトへの流入は2024年比で3割超減少"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://static.time.com/v3/assets/bltea6093859af6183b/blt79947655c251377e/6abbd2d953c5f52be8bf912d/GettyImages-2293903914.jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9"
+      }
+    },
+    {
+      "slug": "futureshop-ai-search-seminar-20260903",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/futureshop-ai-search-seminar-20260903.html",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000194.000008279.html",
+      "platforms": [
+        "other-ai"
+      ],
+      "viewpoint": "seller",
+      "theme": "optimization",
+      "source": "PR TIMES（フューチャーショップ）",
+      "date": "2026-08-25",
+      "title": "「商品との出逢いは検索からAI回答へ」フューチャーショップがEC向けAI検索対策セミナー開催",
+      "bullets": [
+        "フューチャーショップがEC向け「AI検索対策入門」セミナーを開催",
+        "同社契約ユーザーは2021〜2023年に年平均成長率121.2%を記録",
+        "2025年度のセミナー開催実績は年間361回"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://prcdn.freetls.fastly.net/release_image/8279/194/8279-194-dfb20cb1532a7aa8fbbeae5c810a9568-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+      }
+    },
+    {
+      "slug": "ecbeing-agentic-commerce-3months-cycle-20260930",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/ecbeing-agentic-commerce-3months-cycle-20260930.html",
+      "sourceUrl": "https://netshop.impress.co.jp/e/2026/09/30/16654",
+      "platforms": [
+        "other-ai"
+      ],
+      "viewpoint": "seller",
+      "theme": "visibility",
+      "source": "ネットショップ担当者フォーラム",
+      "date": "2026-09-30",
+      "title": "「1年の変化が3か月で起きる」ecbeing社長が語るAI時代のEC戦略、二極化する顧客体験",
+      "bullets": [
+        "ecbeing社長「1年の変化が3か月で起きる」とAI時代のEC戦略を語る",
+        "顧客体験は「便利さ追求型」と「体験重視型」に二極化すると分析",
+        "見せ方の工夫だけでは差別化できない時代の到来を強調"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://netshop.impress.co.jp/sites/default/files/styles/1200x630/public/images/article/2026/tanpatsu/node16654-ogp.jpg?itok=qtGzc05O"
+      }
+    },
+    {
+      "slug": "coloreme-ai-analytics-20260826",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/coloreme-ai-analytics-20260826.html",
+      "sourceUrl": "https://netshop.impress.co.jp/n/2026/08/26/16615",
+      "platforms": [
+        "chatgpt",
+        "google"
+      ],
+      "viewpoint": "seller",
+      "theme": "measurement",
+      "source": "ネットショップ担当者フォーラム",
+      "date": "2026-08-26",
+      "title": "「カラーミーショップ」、ChatGPT・Gemini経由の流入・購入を計測する無料アプリを提供開始",
+      "bullets": [
+        "カラーミーショップがAI経由流入の計測アプリを無料提供。",
+        "ChatGPT・Gemini経由の流入・購入を自動判別・可視化。",
+        "AI経由流入は前年比6倍以上に急増との実態も判明。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://netshop.impress.co.jp/sites/default/files/styles/1200x630/public/images/news/2026/news-node16615-ogp.jpeg?itok=BGBUqM-V"
+      }
+    },
+    {
+      "slug": "chatgpt-shopping-hands-on-price-gap-20260830",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/chatgpt-shopping-hands-on-price-gap-20260830.html",
+      "sourceUrl": "https://www.web-create-service.jp/media/articles/chatgpt-shopping-feature-2026-review",
+      "platforms": [
+        "chatgpt"
+      ],
+      "viewpoint": "buyer",
+      "theme": "optimization",
+      "source": "DivAI Press",
+      "date": "2026-08-30",
+      "title": "ChatGPTショッピングを実際に使うと発覚、表示価格が実店舗と600円ズレるケースも",
+      "bullets": [
+        "ChatGPTショッピングの表示価格が実サイトと600円ズレるケースを確認",
+        "Instant Checkoutは開始からわずか半年、参加店舗は約30店舗で終了",
+        "日本では楽天・Yahoo!の商品が表示されにくく対応が限定的"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://dztawbyrdmivimqnsbhe.supabase.co/storage/v1/object/public/images/media/1775201319624-bnpubatiqu.jpeg"
+      }
+    },
+    {
+      "slug": "centric-plm-ai-product-data-20260929",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/centric-plm-ai-product-data-20260929.html",
+      "sourceUrl": "https://news.mynavi.jp/techplus/kikaku/20260929-4977208/",
+      "platforms": [
+        "other-ai"
+      ],
+      "viewpoint": "seller",
+      "theme": "optimization",
+      "source": "マイナビTECH+",
+      "date": "2026-09-29",
+      "title": "商品ライフサイクルの分断がAI活用のボトルネックに、PLM/PXM活用で計画期間を1/4に短縮した事例も",
+      "bullets": [
+        "商品データの分断がAI活用のボトルネックになると指摘。",
+        "PLM/PXM導入で計画サイクルが1ヶ月から1週間に短縮した例も。",
+        "同事例で営業利益率は5.6%から12%へ2倍以上に向上。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://news.mynavi.jp/techplus/kikaku/20260929-4977208/ogp_images/ogp.jpg"
+      }
+    },
+    {
+      "slug": "amazon-seller-assistant-claude-quick-plugin-20260929",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/amazon-seller-assistant-claude-quick-plugin-20260929.html",
+      "sourceUrl": "https://netshop.impress.co.jp/n/2026/09/29/16786",
+      "platforms": [
+        "amazon",
+        "other-ai"
+      ],
+      "viewpoint": "seller",
+      "theme": "optimization",
+      "source": "ネットショップ担当者フォーラム",
+      "date": "2026-09-29",
+      "title": "Amazon「Seller Assistant」が自律実行型に進化、ClaudeとAmazon Quickから直接操作可能に",
+      "bullets": [
+        "AmazonのAI「Seller Assistant」がClaude・Amazon Quickと連携",
+        "アカウント連携は約60秒・コーディング不要、AI提案受諾率は90%超",
+        "在庫や評価を24時間監視し自動で対応策を作る新機能も追加"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://netshop.impress.co.jp/sites/default/files/styles/1200x630/public/images/news/2026/news-node16786-ogp.jpeg?itok=o4PS7smV"
+      }
+    },
+    {
+      "slug": "amazon-blocks-meta-muse-shopify-welcomes-20260923",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/amazon-blocks-meta-muse-shopify-welcomes-20260923.html",
+      "sourceUrl": "https://www.fool.com/investing/2026/09/23/amazon-blocked-meta-s-ai-shopping-agent-shopify-welcomed-it-and-gets-paid-on-every-checkout/",
+      "platforms": [
+        "amazon",
+        "other-ai"
+      ],
+      "viewpoint": "seller",
+      "theme": "visibility",
+      "source": "The Motley Fool",
+      "date": "2026-09-23",
+      "title": "AmazonがMetaのAIショッピングエージェント「Muse」をブロック、Shopifyは提携で株価15%上昇",
+      "bullets": [
+        "AmazonがMetaのAIエージェント「Muse」を無許可として遮断",
+        "Shopifyは提携を発表し株価が2日間で15%上昇",
+        "Shop Pay経由GMVは前年比53%増、AI関連注文は3倍に拡大"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4404d4552ba43843796ce5a305503a500cb94dfd-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize"
+      }
+    },
+    {
+      "slug": "ai-travel-search-usage-42percent-20260929",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/ai-travel-search-usage-42percent-20260929.html",
+      "sourceUrl": "https://netshop.impress.co.jp/n/2026/09/29/16797",
+      "platforms": [
+        "other-ai"
+      ],
+      "viewpoint": "buyer",
+      "theme": "measurement",
+      "source": "ネットショップ担当者フォーラム",
+      "date": "2026-09-29",
+      "title": "宿泊先選びでAIツールを使う人は約42%、Googleマップと並ぶ情報源に",
+      "bullets": [
+        "宿泊先探しでAI利用42%、Googleマップと同水準に浮上。",
+        "AI提案先への訪問率は55.2%、提案が実際の行動に直結。",
+        "AI利用後もGoogle検索で確認する人が61%、併用が定着。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://netshop.impress.co.jp/sites/default/files/styles/picturize_zoom/public/images/news/2026/news-node16797-1.png"
+      }
+    },
+    {
+      "slug": "ai-search-shopping-usage-34percent-20260929",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/ai-search-shopping-usage-34percent-20260929.html",
+      "sourceUrl": "https://netshop.impress.co.jp/n/2026/09/29/16798",
+      "platforms": [
+        "chatgpt",
+        "google"
+      ],
+      "viewpoint": "buyer",
+      "theme": "measurement",
+      "source": "ネットショップ担当者フォーラム",
+      "date": "2026-09-29",
+      "title": "買い物でAI検索・生成AIを使った人は約34%、家電・ガジェットが最多に",
+      "bullets": [
+        "買い物でAI検索を使った人は34%、家電・ガジェットが最多に。",
+        "ChatGPT54%・Gemini49.7%が利用の中心、併用も目立つ。",
+        "AI提案で購入をやめた人は50.3%、意思決定への影響は大きい。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://netshop.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news/2026/news-node16798-2.png"
+      }
+    },
+    {
+      "slug": "ai-search-product-selection-rate-66percent-20260821",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/ai-search-product-selection-rate-66percent-20260821.html",
+      "sourceUrl": "https://www.tsuhannews.jp/news/detail/75842",
+      "platforms": [
+        "other-ai",
+        "amazon"
+      ],
+      "viewpoint": "seller",
+      "theme": "measurement",
+      "source": "通販新聞",
+      "date": "2026-08-21",
+      "title": "AI検索の「1位」は10回中3回入れ替わる、Amazon Rufusはブラックフライデー流入の4割に",
+      "bullets": [
+        "AI検索の「1位」表示は10回中3回入れ替わる不安定さが判明",
+        "Amazon「Rufus」はブラックフライデー流入の4割、購入の66%に寄与",
+        "選ばれる条件は構造化データ・適正価格・レビュー品質の3点"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://www.tsuhannews.jp/news/image/75842"
+      }
+    },
+    {
+      "slug": "ahrefs-ai-overviews-cited-domains-20260902",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/ahrefs-ai-overviews-cited-domains-20260902.html",
+      "sourceUrl": "https://ahrefs.com/blog/most-cited-domains-ai-overviews/",
+      "platforms": [
+        "google"
+      ],
+      "viewpoint": "seller",
+      "theme": "measurement",
+      "source": "Ahrefs",
+      "date": "2026-09-02",
+      "title": "Google AI Overviewsで最も引用されるドメイン、YouTubeが1位に",
+      "bullets": [
+        "AI Overviewsの引用ドメイン1位はYouTube、シェア22.9%。",
+        "Reddit18.5%・Facebook10.1%が続き、UGC系が上位を占める。",
+        "AI Overviewsは月間20億人規模、地球人口の4分の1に到達。"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://ahrefs.com/blog/wp-content/uploads/2026/06/most-cited-domains-ai-overviews-chart.png"
+      }
+    },
+    {
+      "slug": "adobe-holiday-2026-ai-traffic-forecast-20260928",
+      "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/adobe-holiday-2026-ai-traffic-forecast-20260928.html",
+      "sourceUrl": "https://news.adobe.com/news/2026/09/adobe-us-holiday-shopping-season-to-hit-record",
+      "platforms": [
+        "other-ai"
+      ],
+      "viewpoint": "buyer",
+      "theme": "measurement",
+      "source": "Adobe",
+      "date": "2026-09-28",
+      "title": "Adobe予測、2026年ホリデー商戦は2,751億ドル規模に　AI経由トラフィックは前年比130%増へ",
+      "bullets": [
+        "Adobe予測、2026年ホリデー商戦は前年比6.7%増の2,751億ドル",
+        "米小売サイトへのAI経由トラフィックは前年比130%増と予測",
+        "感謝祭は159%増、ブラックフライデーは95%増の見込み"
+      ],
+      "thumbnail": {
+        "type": "image",
+        "url": "https://news.adobe.com/news/2026/09/media_19ab6d5676e580883f2b73b625678db52796466c8.png?width=1200&format=pjpg&optimize=medium"
+      }
+    },
     {
       "slug": "checkout-com-agentic-commerce-survey-20260617",
       "url": "https://junichi-lisuto.github.io/lisuto-media-centre/articles/checkout-com-agentic-commerce-survey-20260617.html",

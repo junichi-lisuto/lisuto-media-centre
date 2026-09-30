@@ -1,8 +1,28 @@
 # 既出の元記事URL一覧（自動生成）
 
 記事候補を探す前に必ずこの一覧を確認し、ここに載っているURLと同じ元記事は候補から除外すること。
-生成元: articles.json（更新日: 2026-09-29）
+生成元: articles.json（更新日: 2026-09-30）
 
+- https://netshop.impress.co.jp/e/2026/07/23/16448
+- https://netshop.impress.co.jp/n/2026/07/06/16359
+- https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/
+- https://www.pymnts.com/commerce/ecommerce/2026/shopify-brings-shop-pay-checkout-solution-to-metas-muse-ai-agent/
+- https://www.exchangewire.jp/2026/09/24/interview-rakuten-4/
+- https://www.nikkei.com/article/DGXZQOUD281SX0Y6A820C2000000/
+- https://prtimes.jp/main/html/rd/p/000000500.000031201.html
+- https://time.com/article/2026/09/29/google-search-ai-mode-chat/
+- https://prtimes.jp/main/html/rd/p/000000194.000008279.html
+- https://netshop.impress.co.jp/e/2026/09/30/16654
+- https://netshop.impress.co.jp/n/2026/08/26/16615
+- https://www.web-create-service.jp/media/articles/chatgpt-shopping-feature-2026-review
+- https://news.mynavi.jp/techplus/kikaku/20260929-4977208/
+- https://netshop.impress.co.jp/n/2026/09/29/16786
+- https://www.fool.com/investing/2026/09/23/amazon-blocked-meta-s-ai-shopping-agent-shopify-welcomed-it-and-gets-paid-on-every-checkout/
+- https://netshop.impress.co.jp/n/2026/09/29/16797
+- https://netshop.impress.co.jp/n/2026/09/29/16798
+- https://www.tsuhannews.jp/news/detail/75842
+- https://ahrefs.com/blog/most-cited-domains-ai-overviews/
+- https://news.adobe.com/news/2026/09/adobe-us-holiday-shopping-season-to-hit-record
 - https://www.checkout.com/guides-and-reports/agentic-commerce-2026
 - https://prtimes.jp/main/html/rd/p/000000717.000045863.html
 - https://prtimes.jp/main/html/rd/p/000000238.000071371.html
