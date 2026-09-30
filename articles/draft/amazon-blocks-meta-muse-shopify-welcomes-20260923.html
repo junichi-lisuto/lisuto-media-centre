@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>if ('scrollRestoration' in history) { history.scrollRestoration = 'manual'; }</script>
+<title>AmazonがMetaのAIショッピングエージェント「Muse」をブロック、Shopifyは提携で株価15%上昇｜AIタッガー メディアセンター</title>
+<style>
+  :root{
+    --blue:#2563EB;
+    --blue-dark:#1E3A8A;
+    --blue-wash:#EFF6FF;
+    --ink:#0F172A;
+    --ink-mid:#475569;
+    --ink-soft:#64748B;
+    --line:#E2E8F0;
+    --tint:#F8FAFC;
+    --c-visibility:#2563EB;
+    --c-optimization:#7C3AED;
+    --c-measurement:#DC2626;
+    --maxw:760px;
+    --jp:"Noto Sans JP","Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,system-ui,sans-serif;
+  }
+  *{box-sizing:border-box}
+  [hidden]{display:none!important}
+  body{margin:0;background:#fff;color:var(--ink);font-family:var(--jp);
+       font-size:16px;line-height:1.8;-webkit-font-smoothing:antialiased}
+  a{color:inherit}
+  .wrap{max-width:var(--maxw);margin:0 auto;padding-inline:24px}
+
+  header{border-bottom:1px solid var(--line);background:#fff;position:sticky;top:0;z-index:20}
+  .hbar{display:flex;align-items:center;gap:11px;height:68px;max-width:1120px;margin:0 auto;padding-inline:24px}
+  .logo{display:flex;align-items:center;gap:11px;font-weight:700;font-size:17px;
+        text-decoration:none;flex:none}
+  .logo img{display:block;height:34px;width:auto}
+  .logo .sub{color:var(--ink-soft);font-weight:500;font-size:13px;
+        border-left:1px solid var(--line);padding-left:11px;margin-left:2px}
+
+  .crumb{font-size:12.5px;color:var(--ink-soft);padding:16px 0 0}
+  .crumb a{text-decoration:none}
+  .crumb a:hover{color:var(--blue)}
+  .crumb span{margin:0 7px;color:#CBD5E1}
+
+  .thumb{position:relative;display:block;width:100%;padding-top:56.25%;
+         overflow:hidden;background:var(--tint);border-radius:12px;
+         margin:20px 0;transition:opacity .15s}
+  .thumb:hover{opacity:.88}
+  .thumb svg,.thumb img{position:absolute;inset:0;width:100%;height:100%;
+         display:block;object-fit:cover}
+
+  .meta{display:flex;gap:8px;align-items:center;margin:0 0 12px;flex-wrap:wrap}
+  .cat{font-size:11px;font-weight:700;padding:3px 9px;border-radius:999px;color:#fff}
+  .platform{font-size:11px;font-weight:700;color:var(--ink-soft)}
+  .cat.theme-visibility{background:var(--c-visibility)}
+  .cat.theme-optimization{background:var(--c-optimization)}
+  .cat.theme-measurement{background:var(--c-measurement)}
+  .src,.date{font-size:12.5px;color:var(--ink-soft)}
+
+  h1{font-size:26px;margin:0 0 8px;line-height:1.5;color:var(--blue-dark)}
+  .orig{font-size:13px;color:var(--ink-soft);margin:0 0 28px}
+
+  h2{font-size:15px;letter-spacing:.04em;color:var(--ink-soft);font-weight:700;margin:0 0 12px}
+  .background{font-size:15.5px;color:var(--ink);line-height:1.8;margin:0 0 28px}
+  .points{margin:0 0 28px;padding:0;list-style:none}
+  .points li{font-size:15.5px;line-height:1.8;color:var(--ink);
+        padding-left:18px;position:relative;margin-bottom:10px}
+  .points li::before{content:"";position:absolute;left:0;top:.75em;
+        width:5px;height:5px;border-radius:50%;background:var(--blue)}
+
+  .why{background:var(--blue-wash);border-radius:12px;padding:20px 22px;margin-bottom:28px}
+  .why h2{color:var(--blue-dark);margin-bottom:8px}
+  .why p{font-size:15px;color:var(--ink);margin:0;line-height:1.8}
+
+  .source-link{display:inline-flex;align-items:center;gap:6px;font-size:14.5px;
+        font-weight:600;color:var(--blue);text-decoration:none;margin-bottom:48px}
+  .source-link:hover{text-decoration:underline}
+
+  .related{border-top:1px solid var(--line);padding:32px 0 60px}
+  .related h2{color:var(--ink);margin-bottom:16px}
+  .related a{display:block;font-size:14.5px;color:var(--blue);text-decoration:none;margin-bottom:8px}
+  .related a:hover{text-decoration:underline}
+
+  footer{border-top:1px solid var(--line);padding:40px 0 25px;font-size:12px;color:var(--ink-soft);max-width:1120px;margin:0 auto;padding-inline:24px}
+  .ftop{display:flex;justify-content:space-between;gap:32px;flex-wrap:wrap;padding-bottom:24px;border-bottom:1px solid var(--line)}
+  .fcompany p{margin:0 0 6px}
+  .fcompany p:last-child{margin-bottom:0}
+  .fname{color:var(--ink);font-size:13px;font-weight:800}
+  .fcompany a{color:var(--ink-soft);text-decoration:none}
+  .fcompany a:hover{color:var(--blue-dark);text-decoration:underline}
+  .flinks{display:flex;flex-direction:column;align-items:flex-end;gap:8px}
+  .flinks a{color:var(--ink-mid);text-decoration:none;font-size:12px;font-weight:600}
+  .flinks a:hover{color:var(--blue-dark);text-decoration:underline}
+  .frow{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;padding-top:20px}
+
+  @media(max-width:560px){
+    h1{font-size:21px}
+    .flinks{align-items:flex-start}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="hbar">
+    <a class="logo" href="https://www.lisuto.co.jp/media/"><img src="../../assets/logo.svg" alt="AIタッガー"><span class="sub">メディアセンター</span></a>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="crumb"><a href="https://www.lisuto.co.jp/media/">トップ</a><span>›</span><a href="https://www.lisuto.co.jp/media/?theme=visibility">検索結果・購買導線の変化</a><span>›</span>この記事（下書き・未公開）</p>
+
+  <a class="thumb" href="https://www.fool.com/investing/2026/09/23/amazon-blocked-meta-s-ai-shopping-agent-shopify-welcomed-it-and-gets-paid-on-every-checkout/" target="_blank" rel="noopener"><img src="https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4404d4552ba43843796ce5a305503a500cb94dfd-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&amp;w=1200&amp;op=resize" alt="" loading="lazy"></a>
+
+  <div class="meta">
+    <span class="cat theme-visibility">検索結果・購買導線の変化</span>
+    <span class="platform">Amazon・その他AI検索</span>
+    <span class="src">The Motley Fool</span>
+    <span class="date">2026年9月23日</span>
+  </div>
+  <h1>AmazonがMetaのAIショッピングエージェント「Muse」をブロック、Shopifyは提携で株価15%上昇</h1>
+  <p class="orig">原題: Amazon Blocked Meta&#39;s AI Shopping Agent. Shopify Welcomed It -- and Gets Paid on Every Checkout</p>
+
+  <h2>背景</h2>
+  <p class="background">Metaが提供する個人向けAIショッピングエージェント「Muse」を巡り、AmazonとShopifyが正反対の対応を取った。Amazonは無許可のAIエージェントとして顧客認証情報を保存している懸念からMuseをブロックした一方、Shopifyは提携を発表し株価が急伸した。</p>
+
+  <h2>結論</h2>
+  <ul class="points">
+    <li>Amazonは、Meta側が事前通知せずMuseを稼働させ、顧客の認証情報を保存している疑いがあるとしてブロックに踏み切った</li>
+    <li>Amazonの広告事業は年間680億ドル規模で、AIエージェントはクリック型広告を経由せず購入するためこの収益源への影響が懸念されている</li>
+    <li>Shopifyは「あらゆる店舗でagentic checkoutを実現する」と表明し、株価は月曜7%・火曜7%と2日間で計15%上昇した</li>
+    <li>Shopifyの2026年第2四半期はShop Pay経由のGMVが前年比53%増、AI関連のトラフィックと注文は前年比3倍に拡大した</li>
+  </ul>
+
+  <div class="why">
+    <h2>メッセージ</h2>
+    <p>AmazonとShopifyの対応が真逆になった理由は単純で、AIエージェント経由の購入は広告収入を生まないからだ。自社サイトへの出店比率が高い店舗ほど、この「広告を素通りする購買」が増えるほど収益構造への影響を受けやすい。どのプラットフォームがAIエージェントをどう扱うかは技術的な話ではなく、店舗の広告費・手数料構造そのものに直結する経営判断として注視する必要がある。</p>
+  </div>
+
+  <a class="source-link" href="https://www.fool.com/investing/2026/09/23/amazon-blocked-meta-s-ai-shopping-agent-shopify-welcomed-it-and-gets-paid-on-every-checkout/" target="_blank" rel="noopener">元記事を読む（The Motley Fool）↗</a>
+
+  <div class="related">
+    <h2>関連記事</h2>
+
+  </div>
+</div>
+
+<footer>
+  <div class="ftop">
+    <div class="fcompany">
+      <p class="fname">LISUTO株式会社</p>
+      <p>〒106-0032 東京都港区六本木2丁目2-8-9F</p>
+      <p><a href="tel:0362777445">03-6277-7445</a> / <a href="mailto:sales@lisuto.com">sales@lisuto.com</a></p>
+    </div>
+    <nav class="flinks">
+      <a href="https://www.lisuto.co.jp/company/" target="_blank" rel="noopener">会社概要</a>
+      <a href="https://www.lisuto.co.jp/terms-of-use/" target="_blank" rel="noopener">利用規約</a>
+      <a href="https://www.lisuto.co.jp/privacy/" target="_blank" rel="noopener">プライバシーポリシー</a>
+    </nav>
+  </div>
+  <div class="frow"><span>&copy; 2026 LISUTO Inc.</span></div>
+</footer>
+
+<script>
+window.scrollTo(0,0);
+window.addEventListener('load', function(){ window.scrollTo(0,0); });
+</script>
+</body>
+</html>
